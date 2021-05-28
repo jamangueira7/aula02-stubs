@@ -28,6 +28,8 @@ Esse projeto é um teste usando stubs para dados mockado.
 
 - Clone o projeto.
 - Entre na raiz do projeto.
+- Execute "npm install".
+- Entre na pasta src.
 - Execute 'node service.test.js'
 
 ## 🤔 Como contribuir
