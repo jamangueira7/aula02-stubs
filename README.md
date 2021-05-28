@@ -7,7 +7,7 @@
 
 <br>
 
-# Aula 01 - JavaScript Expert
+# JavaScript Expert - Modulo II - Javascript testing - Aula 02 - Stubs.
 
 ## 🚀 Tecnologias
 
@@ -19,13 +19,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto é um teste usando mocks.
+Esse projeto é um teste usando stubs para dados mockado.
 
 ## 🚀 Como Rodar
 
 - Clone o projeto.
 - Entre na raiz do projeto.
-- Execute 'node index.test.js'
+- Execute 'node service.test.js'
 
 ## 🤔 Como contribuir
 
