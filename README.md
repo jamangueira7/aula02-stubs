@@ -13,8 +13,6 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Yarn](https://yarnpkg.com/) - 1.22.4
 - [Npm](https://www.npmjs.com/) - 6.14.5
@@ -28,9 +26,9 @@ Esse projeto é um teste usando stubs para dados mockado.
 
 - Clone o projeto.
 - Entre na raiz do projeto.
-- Execute "npm install".
+- Execute `npm install`.
 - Entre na pasta src.
-- Execute 'node service.test.js'
+- Execute `node service.test.js`
 
 ## 🤔 Como contribuir
 
